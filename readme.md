@@ -39,7 +39,9 @@ A simple Pandas Data (draft version) Visualization module.
 ```
 
 ###Result
-Please access Microsoft One Drive <a href="https://1drv.ms/i/s!Ah0x1kN0ecCBgoQJuNMgXSttVdZdKQ">Sample Result</a> to see the result.
+<p align="center">
+  <img style="width:100%;max-width:800px;" src="https://i.imgur.com/wovTFjJ.png"/>
+</p>
 
 
 ## Licence
